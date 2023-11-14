@@ -1,0 +1,2 @@
+SDK/libskegn-iphoneos.a filter=lfs diff=lfs merge=lfs -text
+SDK/libskegn-iphonesimulator.a filter=lfs diff=lfs merge=lfs -text
