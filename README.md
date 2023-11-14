@@ -16,8 +16,8 @@ To use this SDK, you must obtain a free trial key from SpeechSuper.
 #### Step 2: Download our demo and make it work.
 Start by making our demo work first to get a feel for the SDK's functionality. Choose the demo that suits your needs and clone the respective repository:
 
-   - [Swift demo](https://git.stkouyu.com/speechsuper/demo_for_ios_swift)
-   - [Objective-C demo](https://git.stkouyu.com/speechsuper/demo_for_ios_oc)
+   - [Swift demo](https://github.com/speechsuper/SpeechSuper-SDK-iOS-Swift-Demo)
+   - [Objective-C demo](https://github.com/speechsuper/SpeechSuper-SDK-iOS-ObjectiveC-Demo)
 
 Follow the step-by-step instructions provided in the demo's README file. This step provides a rough overview of how the SDK operates.
 #### Step 3: Comprehensive Integration.
