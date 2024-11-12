@@ -7,7 +7,7 @@ Welcome to the official SpeechSuper iOS SDK repository.
 To use this SDK, you must obtain a free trial key from SpeechSuper.
 
 #### How to Apply for SDK Free Trial
-1. Visit our [website](www.speechsuper.com).
+1. Visit our [website](https://www.speechsuper.com).
 2. Click on **"Start free trial,"** complete the form, and submit it. You can expect a response from our expert **within 1 business day** via email.
 
 ## 🚀 Getting Started
