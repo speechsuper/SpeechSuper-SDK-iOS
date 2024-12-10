@@ -2,6 +2,10 @@
 
 Welcome to the official SpeechSuper iOS SDK repository.
 
+---
+
+⚠️ Please use **`git lfs`** to clone the repo since it's large.
+
 ## Prerequisites
 
 To use this SDK, you must obtain a free trial key from SpeechSuper.
