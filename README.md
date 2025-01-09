@@ -2,9 +2,7 @@
 
 Welcome to the official SpeechSuper iOS SDK repository.
 
----
-
-⚠️ Please use **`git lfs`** to clone the repo since it's large.
+Use ⚠️ **``git lfs clone URL``** ⚠️ to clone the repo. Otherwise, the SDK will not be fully downloaded and **won’t run** properly.
 
 ## Prerequisites
 
