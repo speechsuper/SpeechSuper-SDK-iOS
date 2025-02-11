@@ -1,6 +1,6 @@
 #ifndef SKEGN_H_
 #define SKEGN_H_
-#define SKEGN_VERSION "3.4.1"
+#define SKEGN_VERSION "3.8.3"
 #if (!(defined SKEGN_CALL) || !(defined SKEGN_IMPORT_OR_EXPORT))
 #if defined __WIN32__ || defined _WIN32 || defined _WIN64
 #define SKEGN_CALL __stdcall
